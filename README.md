@@ -39,7 +39,4 @@ Returns a list of frequently asked questions.
 ### `POST /baseline/purchase`
 Marks a jersey as sold out by updating `inStock` (simulated logic only).
 
----
-
-## 📂 File Structure
 
