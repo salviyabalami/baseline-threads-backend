@@ -1,0 +1,40 @@
+[
+  {
+    "title": "NBA Finals Frenzy",
+    "description": "Celebrate the Finals showdown with 20% off all Pacers and Thunder jerseys!",
+    "tag": "finals",
+    "teams": ["Pacers", "Thunder"],
+    "expires": "2025-06-25"
+  },
+  {
+    "title": "Father’s Day Fan Pack",
+    "description": "Buy any jersey and get a free team mug – the perfect gift for hoops-loving dads!",
+    "tag": "gift",
+    "teams": [],
+    "expires": "2025-06-16"
+  },
+  {
+    "title": "Summer Tip-Off Sale",
+    "description": "Heat up your summer with 15% off all Western Conference jerseys.",
+    "tag": "west",
+    "teams": [],
+    "conference": "West",
+    "expires": "2025-07-01"
+  },
+  {
+    "title": "East Coast Elite Discount",
+    "description": "Top Eastern Conference players like Tatum and Giannis — now 10% off!",
+    "tag": "east",
+    "conference": "East",
+    "teams": ["Celtics", "Bucks"],
+    "expires": "2025-07-01"
+  },
+  {
+    "title": "Top Scorers Special",
+    "description": "Get $10 off all jerseys for players averaging 25+ PPG this season.",
+    "tag": "scorers",
+    "condition": "ppg>=25",
+    "teams": [],
+    "expires": "2025-06-30"
+  }
+]
