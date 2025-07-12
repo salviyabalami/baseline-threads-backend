@@ -1,0 +1,29 @@
+{
+  "name": "final-creative-project",
+  "version": "1.0.0",
+  "description": "Baseline Threads - NBA jersey e-commerce site for CS132 final project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "NBA",
+    "ecommerce",
+    "express",
+    "node",
+    "cs132",
+    "baseline-threads"
+  ],
+  "author": "Salviya Balami",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "globby": "^14.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
