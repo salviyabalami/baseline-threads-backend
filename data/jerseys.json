@@ -35,7 +35,7 @@
     "ppg": 19.6,
     "rpg": 5.2,
     "apg": 3.5,
-    "inStock": false,
+    "inStock": true,
     "img": "images/jalen-green.png"
   },
   {
@@ -48,7 +48,7 @@
     "ppg": 21.1,
     "rpg": 9.3,
     "apg": 5,
-    "inStock": false,
+    "inStock": true,
     "img": "images/alperen-sengun.png"
   },
   {
@@ -87,7 +87,7 @@
     "ppg": 21.2,
     "rpg": 4.1,
     "apg": 6.5,
-    "inStock": false,
+    "inStock": true,
     "img": "images/jamal-murray.png"
   },
   {
@@ -126,7 +126,7 @@
     "ppg": 23.7,
     "rpg": 6.1,
     "apg": 3.6,
-    "inStock": false,
+    "inStock": true,
     "img": "images/kawhi-leonard.png"
   },
   {
